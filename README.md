@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there! 👋  
 
-<!--
-**khainguyen04/khainguyen04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Khai**, a final-year IT student at **RMIT University**, specializing in **Artificial Intelligence**. Passionate about coding, problem-solving, and building impactful projects, I have experience in **Python, C++, Java, HTML, and CSS**.  
 
-Here are some ideas to get you started:
+### 🚀 Projects & Achievements  
+- 🏆 **3rd Prize** – RMIT Programming Contest 2024  
+- 📱 **DearFriend** – Assistive iOS app for visually impaired users (Showcased at RMIT Experience Day 2024)  
+- 💻 Built multiple AI-driven and software development projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Skills  
+- **Languages:** Python, C++, Java, HTML, CSS  
+- **Tools & Technologies:** TensorFlow, OpenCV, Git, Figma  
+- **Areas of Interest:** AI, Machine Learning, Software Development, Competitive Programming  
+
+### 📫 Get in Touch  
+- 📧 Email: sinh2412004@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/khai-nguye-470678270/
+- 🌐 Portfolio: 
+
+Feel free to check out my repositories and collaborate on exciting projects! 🚀  
