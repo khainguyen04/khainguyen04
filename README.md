@@ -1,16 +1,39 @@
 # Hi there! 👋  
 
-I’m **Khai**, a final-year IT student at **RMIT University**, specializing in **Artificial Intelligence**. Passionate about coding, problem-solving, and building impactful projects, I have experience in **Python, C++, Java, HTML, and CSS**.  
+## 💫 About Me:
+I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artificial Intelligence**. Passionate about coding, problem-solving, and building impactful projects.
+
+## 💻 Tech Stack:
+
 
 ### 🚀 Projects & Achievements  
 - 🏆 **3rd Prize** – RMIT Programming Contest 2024  
-- 📱 **DearFriend** – Assistive iOS app for visually impaired users (Showcased at RMIT Experience Day 2024)  
-- 💻 Built multiple AI-driven and software development projects  
+# 📱 DearFriend – Assistive iOS App for the Visually Impaired  
 
-### 🔧 Skills  
-- **Languages:** Python, C++, Java, HTML, CSS  
-- **Tools & Technologies:** TensorFlow, OpenCV, Git, Figma  
-- **Areas of Interest:** AI, Machine Learning, Software Development, Competitive Programming  
+### 🏆 Featured at **RMIT Experience Day 2024** (Top 6 Projects)  
+
+**UI/UX Designer | Developer**  
+
+🚀 **Tech Stack:**  
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![MobileNetV2](https://img.shields.io/badge/MobileNetV2-00C853?style=flat)  
+
+### 🔹 Overview  
+DearFriend is an **iOS application** designed to assist visually impaired individuals with the following features:  
+- 🎯 **Object & Text Recognition** – Uses **MobileNetV2** ML model to describe surroundings via sound.  
+- 📞 **Volunteer Video Calling** – Connects users with volunteers for real-time assistance.  
+- ⚠️ **Emergency Alert System** – Instantly notifies family members in case of danger.  
+
+### 🎨 Role & Contributions  
+- 🖌 **Designed** the application's **prototype** using **Figma** for a user-friendly experience.  
+- 🛠 **Developed** the **video calling feature**, enabling real-time support from volunteers.  
+- 🚀 **Integrated** object and text recognition with **MobileNetV2** for AI-driven assistance.  
+
+📂 **Check out the repository:**[]
+
+
 
 ### 📫 Get in Touch  
 - 📧 Email: sinh2412004@gmail.com
