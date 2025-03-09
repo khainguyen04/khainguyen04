@@ -37,6 +37,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 ✅ 🖌 **Designed** the application's prototype using Figma for a user-friendly experience.  
 ✅ 🛠 **Developed** the video calling feature, enabling real-time support from volunteers.  
 
+
 ### 🔹 [ScoutSkillz](https://github.com/your-repo-link)  
 🔧 **Tech Stack:**  
 <p align="center">
@@ -49,6 +50,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 ✅ Built an **Online Learning Platform** for **Scouting**, enabling students to buy courses and instructors to upload and sell them.  
 ✅ Implemented **user authentication, course administration, and admin controls** for smooth platform operation.  
 ✅ Developed **admin controls, shopping cart, and wishlist features** to enhance platform management.  
+
 
 ### 🔹 [AuctionApplication](https://github.com/your-repo-link)  
 🔧 **Tech Stack:**  
