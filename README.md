@@ -37,6 +37,31 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 ✅ 🖌 **Designed** the application's prototype using Figma for a user-friendly experience.  
 ✅ 🛠 **Developed** the video calling feature, enabling real-time support from volunteers.  
 
+### 🔹 [ScoutSkillz](https://github.com/your-repo-link)  
+🔧 **Tech Stack:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" height="25">
+</p>
+
+📌 **Description:**  
+✅ Built an **Online Learning Platform** for **Scouting**, enabling students to buy courses and instructors to upload and sell them.  
+✅ Implemented **user authentication, course administration, and admin controls** for smooth platform operation.  
+✅ Developed **admin controls, shopping cart, and wishlist features** to enhance platform management.  
+
+### 🔹 [AuctionApplication](https://github.com/your-repo-link)  
+🔧 **Tech Stack:**  
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" height="25">
+</p>
+
+📌 **Description:**  
+✅ **Console-based auction system** where users can buy, sell, and bid on items using **Credit Points (CP)**.  
+✅ **User Management & Authentication** – Supports login, signup, and role-based access control (Admin, Guest, Member).  
+✅ **Auction & Bidding System** – Allows adding, updating, and removing auction items with real-time bidding functionality.  
+✅ **Ratings & Reviews** – Users can rate and review items, with data stored in **CSV files** for persistence.  
+
 ### 🎯 Want to see more?  
 🔗 Check out all my projects [here](https://github.com/your-profile-link)!  
 
