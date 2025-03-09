@@ -67,16 +67,12 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 ### 🎯 Want to see more?  
 🔗 Check out all my projects [here](https://github.com/your-profile-link)!  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-profile/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-profile/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/your-profile/output/github-snake.svg" />
-</picture>
-
 ### 📫 Get in Touch  
 - 📧 Email: sinh2412004@gmail.com  
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khai-nguye-470678270/)  
 - 🌐 Portfolio: *Coming Soon*  
+
+
 
 ---
 Feel free to check out my repositories and collaborate on exciting projects! 🚀
