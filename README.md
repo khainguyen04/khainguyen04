@@ -27,7 +27,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artif
 ✅ 📞 **Volunteer Video Calling** – Connects users with volunteers for real-time assistance.  
 ✅ ⚠️ **Emergency Alert System** – Instantly notifies family members in case of danger.  
 
-### 🎨 Role & Contributions  
+🎨 **Role & Contributions**
 ✅ 🖌 **Designed** the application's **prototype** using **Figma** for a user-friendly experience.  
 ✅ 🛠 **Developed** the **video calling feature**, enabling real-time support from volunteers.  
 
