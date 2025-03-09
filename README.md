@@ -6,7 +6,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artif
 ## 💻 Tech Stack:
 
 ## 🏆 Achievements 
-###🥉 **3rd Prize** – RMIT Programming Contest 2024  
+### 🥉 **3rd Prize** – RMIT Programming Contest 2024  
 
 ## 🚀 Projects 
 ### 🔹  📱 DearFriend
