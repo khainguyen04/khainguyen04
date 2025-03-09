@@ -15,7 +15,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artif
 **UI/UX Designer | Developer**  
 
 🚀 **Tech Stack:**  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" height="25">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25">
