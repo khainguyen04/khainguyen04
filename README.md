@@ -8,7 +8,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artif
 
 ## 🚀 Projects & Achievements  
 ### 🏆 **3rd Prize** – RMIT Programming Contest 2024  
-### 📱 DearFriend – Assistive iOS App for the Visually Impaired | **UI/UX Designer | Developer**  
+### 🔹 📱 DearFriend – Assistive iOS App for the Visually Impaired | **UI/UX Designer | Developer**  
 
 🏆 **Featured at RMIT Experience Day 2024 (Top 6 Projects)**  
 
