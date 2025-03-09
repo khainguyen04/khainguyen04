@@ -31,7 +31,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 📌 **Description:**  
 ✅ 🎯 **Object & Text Recognition** – Uses MobileNetV2 ML model to describe surroundings via sound.  
 ✅ 📞 **Volunteer Video Calling** – Connects users with volunteers for real-time assistance.  
-✅ ⚠️ **Emergency Alert System** – Instantly notifies family members in case of danger.  
+✅ ⚠️ **Emergency Alert System** – Allow user instantly messages family members in case of danger.  
 
 🎨 **Role & Contributions:**  
 ✅ 🖌 **Designed** the application's prototype using Figma for a user-friendly experience.  
