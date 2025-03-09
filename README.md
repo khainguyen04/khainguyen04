@@ -22,8 +22,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artif
   <img src="https://img.shields.io/badge/MobileNetV2-00C853?style=flat" height="25">
 </p>
 
-### 🔹 Overview  
-DearFriend is an **iOS application** designed to assist visually impaired individuals with the following features:  
+📌 **Description:**  DearFriend is an **iOS application** designed to assist visually impaired individuals with the following features:  
 - 🎯 **Object & Text Recognition** – Uses **MobileNetV2** ML model to describe surroundings via sound.  
 - 📞 **Volunteer Video Calling** – Connects users with volunteers for real-time assistance.  
 - ⚠️ **Emergency Alert System** – Instantly notifies family members in case of danger.  
