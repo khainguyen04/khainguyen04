@@ -15,10 +15,12 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artif
 **UI/UX Designer | Developer**  
 
 🚀 **Tech Stack:**  
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![MobileNetV2](https://img.shields.io/badge/MobileNetV2-00C853?style=flat)  
+<p>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat&logo=swift&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/MobileNetV2-00C853?style=flat" height="25">
+</p>
 
 ### 🔹 Overview  
 DearFriend is an **iOS application** designed to assist visually impaired individuals with the following features:  
