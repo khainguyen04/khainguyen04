@@ -1,4 +1,4 @@
-# Hi there! 👋  
+## Hi there! 👋  
 
 ## 💫 About Me:
 I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artificial Intelligence**. Passionate about coding, problem-solving, and building impactful projects.
@@ -7,7 +7,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artif
 
 
 ## 🚀 Projects & Achievements  
- 🏆 **3rd Prize** – RMIT Programming Contest 2024  
+### 🏆 **3rd Prize** – RMIT Programming Contest 2024  
 ### 📱 DearFriend – Assistive iOS App for the Visually Impaired  
 
 🏆 **Featured at RMIT Experience Day 2024 (Top 6 Projects)**  
