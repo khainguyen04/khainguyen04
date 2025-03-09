@@ -23,17 +23,13 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minor in **Artif
 </p>
 
 📌 **Description:**  DearFriend is an **iOS application** designed to assist visually impaired individuals with the following features:  
-- 🎯 **Object & Text Recognition** – Uses **MobileNetV2** ML model to describe surroundings via sound.  
-- 📞 **Volunteer Video Calling** – Connects users with volunteers for real-time assistance.  
-- ⚠️ **Emergency Alert System** – Instantly notifies family members in case of danger.  
+✅ 🎯 **Object & Text Recognition** – Uses **MobileNetV2** ML model to describe surroundings via sound.  
+✅ 📞 **Volunteer Video Calling** – Connects users with volunteers for real-time assistance.  
+✅ ⚠️ **Emergency Alert System** – Instantly notifies family members in case of danger.  
 
 ### 🎨 Role & Contributions  
-- 🖌 **Designed** the application's **prototype** using **Figma** for a user-friendly experience.  
-- 🛠 **Developed** the **video calling feature**, enabling real-time support from volunteers.  
-- 🚀 **Integrated** object and text recognition with **MobileNetV2** for AI-driven assistance.  
-
-📂 **Check out the repository:**[]
-
+✅ 🖌 **Designed** the application's **prototype** using **Figma** for a user-friendly experience.  
+✅ 🛠 **Developed** the **video calling feature**, enabling real-time support from volunteers.  
 
 
 ### 📫 Get in Touch  
