@@ -1,5 +1,3 @@
-<img src="project.png" alt="GitHub Banner" width="100%" />
-
 ## 💫 About Me:
 I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Artificial Intelligence**. Passionate about coding, problem-solving, and building impactful projects.
 
