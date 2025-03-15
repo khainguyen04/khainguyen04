@@ -71,12 +71,12 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 ✅ **Ratings & Reviews** – Users can rate and review items, with data stored in **CSV files** for persistence.  
 
 ### 🎯 Want to see more?  
-🔗 Check out all my projects [here](https://github.com/your-profile-link)!  
+🔗 Check out all my projects [here](https://github.com/khainguyen04?tab=repositories)!  
 
 ### 📫 Get in Touch  
 - 📧 Email: sinh2412004@gmail.com  
 - 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khai-nguye-470678270/)  
-- 🌐 Portfolio: *Coming Soon*  
+ 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khainguyen04/khainguyen04/output/github-snake-dark.svg" />
