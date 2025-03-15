@@ -58,7 +58,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 ✅ Developed **admin controls, shopping cart, and wishlist features** to enhance platform management.  
 
 
-### 🔹 [AuctionApplication](https://github.com/your-repo-link)  
+### 🔹 [AuctionApplication](https://github.com/khainguyen04/Aunction-System)  
 🔧 **Tech Stack:**  
 <p align="center">
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" height="25">
