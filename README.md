@@ -23,7 +23,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 
 ## 🚀 Featured Projects  
 
-### 🔹 [DearFriend](https://github.com/your-repo-link)  
+### 🔹 [DearFriend](https://github.com/snowman72/BITS_DearFriend.git)  
 **Selected as one of six projects among hundreds of submissions to be showcased at RMIT’s Experience Day 2024**  
 
 🔧 **Tech Stack:**  
