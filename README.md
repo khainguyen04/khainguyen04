@@ -75,7 +75,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 
 ### 📫 Get in Touch  
 - 📧 Email: sinh2412004@gmail.com  
-- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khai-nguye-470678270/)  
+- 🔗 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/khai-nguyen-minh-470678270/)  
  
 
 <picture>
