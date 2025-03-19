@@ -44,7 +44,8 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 ✅ 🛠 **Developed** the video calling feature, enabling real-time support from volunteers.  
 
 
-### 🔹 [ScoutSkillz](https://github.com/your-repo-link)  
+### 🔹 [ScoutSkillz](https://github.com/khainguyen04/ScoutSkillz.git
+)  
 🔧 **Tech Stack:**  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="25">
