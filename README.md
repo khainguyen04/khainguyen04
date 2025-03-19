@@ -23,7 +23,7 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 
 ## 🚀 Featured Projects  
 
-### 🔹 [DearFriend](https://github.com/snowman72/BITS_DearFriend.git)  
+### 🔹 [DearFriend]()  
 **Selected as one of six projects among hundreds of submissions to be showcased at RMIT’s Experience Day 2024**  
 
 🔧 **Tech Stack:**  
@@ -44,8 +44,8 @@ I’m **Khai**, a final-year IT student at **RMIT University**, minoring in **Ar
 ✅ 🛠 **Developed** the video calling feature, enabling real-time support from volunteers.  
 
 
-### 🔹 [ScoutSkillz](https://github.com/khainguyen04/ScoutSkillz.git
-)  
+### 🔹 [ScoutSkillz](https://github.com/khainguyen04/ScoutSkillz)
+
 🔧 **Tech Stack:**  
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" height="25">
